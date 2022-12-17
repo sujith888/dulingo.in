@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#free{
+    width: 12rem;
+    border-color: #fa811b;
+    color: #fff;
+    background-color: #fa811b;
+    height: 3rem;
+}
+
+
+#first {
+   
+    width:28%;margin-left:10rem ;
+}
+.card-img-top{
+    width:25%;margin-left:9rem ;
+}
+#one,#two,#three,#four, a{
+    text-decoration:none;
+    color: #979797
+
+}
+#one,#two,#three,#four, h5{
+    color:#4c4c4c;;
+
+}
